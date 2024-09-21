@@ -1,0 +1,6 @@
+export {crearDeck} from './create-deck'
+export {pedirCarta} from './ask-card'
+export {valorCarta} from './card-value'
+export {turnoComputadora} from './computer-turn'
+export { acumularPuntos } from './acumule-points'
+export { crearCarta } from './create-card'
